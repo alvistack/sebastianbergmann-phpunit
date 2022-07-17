@@ -1,0 +1,8 @@
+phpunit: copyright-without-copyright-notice
+phpunit: description-synopsis-starts-with-article
+phpunit: embedded-javascript-library
+phpunit: empty-binary-package
+phpunit: initial-upload-closes-no-bugs
+phpunit: no-manual-page
+phpunit: package-contains-vcs-control-file
+phpunit: zero-byte-file-in-doc-directory
