@@ -1,0 +1,3 @@
+phpunit source: file-without-copyright-information
+phpunit source: no-debian-changes
+phpunit source: source-is-missing
